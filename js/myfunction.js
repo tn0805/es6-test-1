@@ -7,14 +7,3 @@ var post = content => `<div class="entry card">
                 </div>
             </div>
         </div>`;
-
-
- 
-// var comments = comment => `<div class="entry card">
-//             <div class="card-body">
-//                 <div class="card-text">
-//                     <p>${comment.text}</p>
-//                     <p>Post by <strong>${comment.by}</strong></p>
-//                 </div>
-//             </div>
-//         </div>`;
